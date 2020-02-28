@@ -12,11 +12,11 @@ Profile;
 
 **Backend Setup:**
 ``
-cd backend
-python3 -m venv env
-source env/bin/activate
-pip3 install -r requirements.txt
-python3 run.py
+cd backend </br>
+python3 -m venv env </br>
+source env/bin/activate </br>
+pip3 install -r requirements.txt </br>
+python3 run.py </br>
 ``
 
 **Frontend Setup:**
